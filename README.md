@@ -1,7 +1,7 @@
-### Hi there, I'm Jesse Ahmed Faisal
+### Hi there, I'm  Ahmed Faisal
 
 
-## I'm a  Developer, Student and Gamer !!!
+## I'm a  Developer !!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other other developers
