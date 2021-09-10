@@ -1,0 +1,147 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Student Api",
+    "description" : "This Api will get Student data given requested parameter",
+    "version" : "1.0.0"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/AhmedFaisal11/Student/1.0.0",
+    "description" : "SwaggerHub API Auto Mocking"
+  }, {
+    "url" : "http://devapi.com"
+  } ],
+  "paths" : {
+    "/student" : {
+      "summary" : "to return student values",
+      "description" : "this path will return student detials",
+      "get" : {
+        "description" : "this will return student data",
+        "parameters" : [ {
+          "name" : "studentname",
+          "in" : "query",
+          "required" : true,
+          "style" : "form",
+          "explode" : true,
+          "schema" : {
+            "type" : "string",
+            "example" : "Ahmed"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success Response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/student"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post" : {
+        "description" : "Add a New Student",
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/student_body"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "201" : {
+            "description" : "Record Successfully added"
+          }
+        }
+      }
+    },
+    "/student{id}" : {
+      "description" : "get student based on passed parameter",
+      "get" : {
+        "parameters" : [ {
+          "name" : "id",
+          "in" : "path",
+          "required" : true,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "integer"
+          }
+        } ],
+        "responses" : {
+          "201" : {
+            "description" : "Success Response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/inline_response_201"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components" : {
+    "schemas" : {
+      "student" : {
+        "type" : "object",
+        "properties" : {
+          "StudentId" : {
+            "type" : "integer",
+            "example" : 3
+          },
+          "StudentName" : {
+            "type" : "string",
+            "example" : "David"
+          },
+          "StudentRemarks" : {
+            "type" : "string",
+            "example" : "High school Student"
+          }
+        }
+      },
+      "student_body" : {
+        "type" : "object",
+        "properties" : {
+          "StudentId" : {
+            "type" : "integer",
+            "example" : 3
+          },
+          "StudentName" : {
+            "type" : "string",
+            "example" : "David"
+          },
+          "StudentRemarks" : {
+            "type" : "string",
+            "example" : "High school Student"
+          }
+        }
+      },
+      "inline_response_201" : {
+        "properties" : {
+          "StudentId" : {
+            "type" : "integer",
+            "example" : 3
+          },
+          "StudentName" : {
+            "type" : "string",
+            "example" : "David"
+          },
+          "StudentRemarks" : {
+            "type" : "string",
+            "example" : "High school Student"
+          }
+        }
+      }
+    }
+  }
+}
