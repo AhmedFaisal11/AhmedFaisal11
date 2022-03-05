@@ -1,5 +1,7 @@
 ### Hi there, I'm  Ahmed Faisal
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFaisal11)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## I'm a  Developer !!!
 
