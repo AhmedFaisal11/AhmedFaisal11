@@ -1,6 +1,27 @@
-### Hi there, I'm  Ahmed Faisal
+## Hi there, I'm  Ahmed Faisal
 
-## I'm a  Developer !!!
+
+## I'm a Backend & DevOps Engineer !!!
+
+### Technology Stack
+
+- Node Js
+    * Express
+    * NestJS
+    * NodeJS
+- Python
+    * Flask
+    * FastAPI
+    * GPT
+    * langchain
+- AWS
+    * EC2
+    * VPC
+    * S3
+    * ELB
+    * ECR
+- Docker
+- Hashicorp Tools (Vault, Terraform, Vagrant)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other other developers
