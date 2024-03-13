@@ -1,7 +1,8 @@
 ## Hi there, I'm  Ahmed Faisal
 
-
 ## I'm a Backend & DevOps Engineer !!!
+
+<a href="https://app.daily.dev/ahmedfaisal11"><img src="https://api.daily.dev/devcards/v2/gKTnEjac8NEaRb5KZRiDq.png?r=xbb&type=wide" width="652" alt="Ahmed Faisal's Dev Card"/></a>
 
 ### Technology Stack
 
