@@ -37,6 +37,7 @@ Passionate about building scalable and efficient backend systems, I have over 4 
   - Blob Storage: Storing unstructured data with high availability.
   - Load Balancer: Distributing network traffic for high availability.
   - Container Registry: Storing and managing container images.
+  - DevOps: Streamlining CI/CD pipelines and ensuring efficient workflows.
 - **Docker**: Containerizing applications for consistent environments.
 - **Kubernetes**: Orchestrating containerized applications for automated deployment, scaling, and management.
 - **HashiCorp Tools**
@@ -45,6 +46,11 @@ Passionate about building scalable and efficient backend systems, I have over 4 
   - Vagrant: Managing development environments.
 - **IAC Tools**
   - OpenTofu: Automating Infrastructure as Code
+
+#### Code Quality & Security
+- **Code Quality**: Ensuring high code quality through rigorous testing, code reviews, and adherence to best practices.
+- **Security**: Implementing robust security measures to protect applications and data, including encryption, RBAC, and secure coding practices.
+
 
 ### 🌱 Currently Learning
 I am exploring new technologies and methodologies to stay updated and enhance my skill set.
