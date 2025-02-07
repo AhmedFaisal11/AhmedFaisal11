@@ -1,63 +1,51 @@
-# Hi there, I'm Ahmed Faisal
+## Hi there, I'm Ahmed Faisal 👋  
 
-## Backend & DevOps Engineer
+### 🚀 Backend & DevOps Engineer | AI Enthusiast  
 
-<a href="https://app.daily.dev/ahmedfaisal11"><img src="https://api.daily.dev/devcards/v2/gKTnEjac8NEaRb5KZRiDq.png?r=xbb&type=wide" width="652" alt="Ahmed Faisal's Dev Card"/></a>
+🔹 **Passionate about AI, Cloud, and Scalable Backend Systems**  
+🔹 **4+ years of experience in AI-driven SaaS and microservices**  
+🔹 **Currently building Generative AI applications at Codifica Inc**  
+
+## 🛠️ Tech Stack  
+
+### Backend Development  
+- **Python & Node.js**: FastAPI, LangChain, LangGraph, NestJS, Express  
+- **AI & ML**: GPT, Anthropic, LLAMA-3, GenAI, RAG, AI Agents, LVMs, Local Agents
+- **Databases**: PostgreSQL, MongoDB, Elasticsearch  
+- **Microservices**: Event-driven, containerized architectures  
+
+### Cloud & DevOps  
+- **AWS**: EC2, S3, VPC, ELB, Lambda, CodeDeploy  
+- **Azure**: VMs, Blob Storage, Load Balancers, Container Registry, AKS (Kubernetes Service), ACA (Container Apps), Azure OpenAI & AI Services  
+- **Infrastructure as Code**: Terraform, OpenTofu, Kubernetes  
+- **CI/CD**: AWS CodePipeline, GitHub Actions, Jenkins  
+- **Security**: HashiCorp Vault, IAM, RBAC, ABAC
+
+## 📚 Featured Projects  
+✅ **Chatbot with Llama-Index** – AI-powered NLP chatbot with efficient RAG (Retrieval Augmented Generation).  
+✅ **NFT Marketplace on AWS** – Infrastructure-as-code deployment using Terraform.  
+✅ **(AI-based Healthcare App)** – AI-driven health monitoring via phone cameras.  
+✅ **Monolithic to Microservices Migration** – Scaled an existing application using Node.js & RabbitMQ.  
+✅ **Voice Agents** – Connected AI Agents with Telephony and Voice Inputs.  
+✅ **AI Agents** – Designed and deployed AI-driven agents for Web and Telephony, enabling intelligent customer interactions.  
+✅ **Voice Agents for Telephony** – Built AI-powered voice agents that handle calls using speech recognition and synthesis.  
+✅ **LLMOps & Model Deployment** – Streamlined large language model (LLM) deployment on AWS and Azure, reducing latency and improving scalability.  
+✅ **AI Plugins & Tooling** – Developed AI tools for integrations like WooCommerce, Google Sheets, and custom API plugins.  
 
 ---
 
-Passionate about building scalable and efficient backend systems, I have over 4 years of experience developing and managing backend infrastructure. My expertise lies in creating robust microservices and deploying them in the cloud, ensuring high availability and performance.
+### 🎮 Fun Fact  
+I love anime and gaming in my free time!  
 
-### Technology Stack
+### 📫 Connect with Me  
+[![Twitter Badge](https://img.shields.io/badge/-@AhmedFa6855-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AhmedFa6855)](https://twitter.com/AhmedFa6855)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Ahmed%20Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-faisal-72aa0b1ba/)](https://www.linkedin.com/in/ahmed-faisal-72aa0b1ba/)  
+[![GitHub Badge](https://img.shields.io/badge/-AhmedFaisal11-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AhmedFaisal11)](https://github.com/AhmedFaisal11) 
 
-#### Backend Development
-- **Node.js**
-  - Express: Building RESTful APIs and web applications.
-  - NestJS: Developing scalable and maintainable server-side applications.
-- **Python**
-  - FastAPI: Creating fast and reliable APIs with Python.
-  - GPT/Anthropic/LLAMA-3: Leveraging AI for intelligent applications.
-  - Gen AI: Integrating generative AI models.
-  - AI Agents: Building autonomous AI agents.
-  - LLM OS: Working with large language models operating systems.
-  - Microservices: Designing and implementing microservices architectures.
-  - PostgreSQL: Managing relational databases efficiently.
-  - Design Patterns: Applying best practices for software design.
-  - Ollama: Utilizing Ollama for advanced backend solutions.
+---
 
-#### Cloud & DevOps
-- **AWS**
-  - EC2: Managing scalable compute resources.
-  - VPC: Configuring secure and isolated network environments.
-  - S3: Storing and managing data with high availability.
-  - ELB: Distributing incoming traffic for better resource utilization.
-  - ECR: Managing Docker container registries.
-- **Azure**
-  - VM: Managing virtual machines for scalable computing.
-  - Blob Storage: Storing unstructured data with high availability.
-  - Load Balancer: Distributing network traffic for high availability.
-  - Container Registry: Storing and managing container images.
-  - DevOps: Streamlining CI/CD pipelines and ensuring efficient workflows.
-- **Docker**: Containerizing applications for consistent environments.
-- **Kubernetes**: Orchestrating containerized applications for automated deployment, scaling, and management.
-- **HashiCorp Tools**
-  - Vault: Securing sensitive data with encryption.
-  - Terraform: Automating infrastructure as code.
-  - Vagrant: Managing development environments.
-- **IAC Tools**
-  - OpenTofu: Automating Infrastructure as Code
+<a href="https://app.daily.dev/ahmedfaisal11">
+  <img src="https://api.daily.dev/devcards/v2/gKTnEjac8NEaRb5KZRiDq.png?r=xbb&type=wide" width="652" alt="Ahmed Faisal's Dev Card"/>
+</a>  
 
-#### Code Quality & Security
-- **Code Quality**: Ensuring high code quality through rigorous testing, code reviews, and adherence to best practices.
-- **Security**: Implementing robust security measures to protect applications and data, including encryption, RBAC, and secure coding practices.
-
-
-### 🌱 Currently Learning
-I am exploring new technologies and methodologies to stay updated and enhance my skill set.
-
-### ⚡ Fun Fact
-I love watching anime and playing games.
-
-### Connect with Me
-[![Twitter Badge](https://img.shields.io/badge/-@AhmedFa6855-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AhmedFa6855)](https://twitter.com/AhmedFa6855)
-[![LinkedIn Badge](https://img.shields.io/badge/-Ahmed%20Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-faisal-72aa0b1ba/)](https://www.linkedin.com/in/ahmed-faisal-72aa0b1ba/)
+---
