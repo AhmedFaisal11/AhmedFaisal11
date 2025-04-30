@@ -44,6 +44,4 @@ I love anime and gaming in my free time!
 
 ---
 
-<a href="https://app.daily.dev/ahmedfaisal11">
-  <img src="https://api.daily.dev/devcards/v2/gKTnEjac8NEaRb5KZRiDq.png?r=xbb&type=wide" width="652" alt="Ahmed Faisal's Dev Card"/>
-</a>  
+<a href="https://app.daily.dev/ahmedfaisal11"><img src="https://api.daily.dev/devcards/v2/gKTnEjac8NEaRb5KZRiDq.png?type=wide&r=f91" width="800" alt="Ahmed Faisal's Dev Card"/></a>
