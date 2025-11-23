@@ -3,7 +3,7 @@
 ### 🚀 Backend & DevOps Engineer | AI Enthusiast  
 
 🔹 **Passionate about AI, Cloud, and Scalable Backend Systems**  
-🔹 **5+ years of experience in AI-driven SaaS and microservices**  
+🔹 **6+ years of experience in AI-driven SaaS and microservices**  
 🔹 **Currently building Generative AI applications at Codifica Inc**  
 
 ## 🛠️ Tech Stack  
